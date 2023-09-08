@@ -5,4 +5,4 @@ Some work you might be interested:
 
 *1.* Laptop Price Prediction 
 
-*2.* Motor Insurance Fraud Detection
+*2.* Prediction of SpaceX Falcon 9 Launches
