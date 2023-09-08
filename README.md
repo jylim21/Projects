@@ -1,4 +1,4 @@
-# Justin Lim
+# Data Science Portfolio - Justin Lim
 Welcome to my repository, I will be your guide!
 
 Some work you might be interested:
