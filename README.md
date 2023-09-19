@@ -3,6 +3,10 @@ Welcome to my repository, I will be your guide!
 
 Some work you might be interested:
 
-*1.* Laptop Price Prediction 
+*1.* SpaceX Falcon 9 Launch Outcome Prediction
 
-*2.* Prediction of SpaceX Falcon 9 Launches
+*2.* Airlines Customer Satisfaction Analysis
+
+*3.* Laptop Price Prediction 
+
+*4.* E-commerce Customer Churn Prediction
