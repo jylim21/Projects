@@ -9,4 +9,6 @@ Some work you might be interested:
 
 *3.* Laptop Price Prediction 
 
-*4.* E-commerce Customer Churn Prediction
+*4.* Temperature Forecasting using ARIMA
+
+*4.* E-commerce Customer Churn Prediction (in progress)
