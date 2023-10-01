@@ -1,5 +1,5 @@
 # Welcome! 欢迎光临!
-Welcome to my repository, I will be your guide!
+Thanks for visiting to my repository, I'll be your guide!
 
 Some work you might be interested:
 
