@@ -1,14 +1,25 @@
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/juenyuh-lim/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 # Welcome! 欢迎光临!
 Thanks for visiting to my repository, I'll be your guide!
 
 Some work you might be interested:
 
-*1.* SpaceX Falcon 9 Launch Outcome Prediction
+- :rocket: SpaceX Falcon 9 Launch Outcome Prediction
 
-*2.* Airlines Customer Satisfaction Analysis
+- :airplane: Airlines Customer Satisfaction Analysis
 
-*3.* Laptop Price Prediction 
+- :computer: Laptop Price Prediction 
 
-*4.* Temperature Forecasting using ARIMA
+- ⛅ Temperature Forecasting using ARIMA
 
-*4.* E-commerce Customer Churn Prediction (in progress)
+- :shopping: E-commerce Customer Churn Prediction (in progress)
