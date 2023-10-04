@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/juenyuh-lim/">
