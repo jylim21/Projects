@@ -14,12 +14,13 @@ Thanks for visiting to my repository, I'll be your guide!
 
 Some work you might be interested:
 
-- :rocket: SpaceX Falcon 9 Launch Outcome Prediction
-
-- :airplane: Airlines Customer Satisfaction Analysis
-
-- :computer: Laptop Price Prediction 
-
-- ⛅ Temperature Forecasting using ARIMA
-
-- :shopping: E-commerce Customer Churn Prediction (in progress)
+<div align="left">
+  <ul>
+    <li>:taxi: Uber Fare Analysis</li>
+    <li>:rocket: SpaceX Falcon 9 Launch Outcome Prediction</li>
+    <li>:airplane: Airlines Customer Satisfaction Analysis</li>
+    <li>:computer: Laptop Price Prediction </li>
+    <li>⛅ Temperature Forecasting using ARIMA </li>
+    <li>:shopping: E-commerce Customer Churn Prediction (in progress) </li>
+  </ul>
+</div>
